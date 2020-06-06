@@ -27,7 +27,7 @@
     "@nestjs/passport": "^6.1.1",
     "@nestjs/platform-express": "^6.7.2",
     "@nestjs/typeorm": "^6.2.0",
-    "apollo-server": "^2.9.16",
+    "apollo-server": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "dataloader": "^2.0.0",
     "dotenv": "^8.2.0",
